@@ -1,6 +1,0 @@
-github
-1주차 4~10장
-2주차 3개장
-주차별 예제 하나씩 프로젝트처럼
-
-google code devpia source forge
