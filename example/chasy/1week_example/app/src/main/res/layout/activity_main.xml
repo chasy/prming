@@ -169,7 +169,7 @@
                     android:id="@+id/btnFrameTest"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Push Button">
+                    android:text="이미지 토글">
 
                 </Button>
 
