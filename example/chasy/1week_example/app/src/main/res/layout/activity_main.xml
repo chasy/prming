@@ -21,8 +21,34 @@
                 android:layout_height="wrap_content"
                 android:onClick="GoCanvas"
                 android:text="캔버스">
-
             </Button>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnGoEvent"
+                android:text="이벤트예제(길게 눌러야 넘어감)">
+            </Button>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="GoMenu"
+                android:text="메뉴">
+            </Button>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtTimer"
+                android:textSize="50px"></TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtTimer2"
+                android:textSize="50px"></TextView>
+
 
             <LinearLayout
                 android:layout_width="match_parent"
